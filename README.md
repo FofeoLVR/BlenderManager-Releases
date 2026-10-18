@@ -6,7 +6,14 @@ The source code is not published here.
 
 ## Download
 
-Open [Releases](../../releases), choose a version, download its ZIP archive, extract it and run `BlenderManager.exe`.
+Download the version you want, extract its ZIP archive, then run `BlenderManager.exe`.
+
+- [Alpha 1.5 — latest](archives/BlenderManagerAlpha1.5.zip?raw=1)
+- [Alpha 1.4](archives/BlenderManagerAlpha1.4.zip?raw=1)
+- [Alpha 1.3](archives/BlenderManagerAlpha1.3.zip?raw=1)
+- [Alpha 1.2](archives/BlenderManagerAlpha1.2.zip?raw=1)
+- [Alpha 1.1](archives/BlenderManagerAlpha1.1.zip?raw=1)
+- [Alpha 1.0](archives/BlenderManagerAlpha1.0.zip?raw=1)
 
 ## Requirements
 
